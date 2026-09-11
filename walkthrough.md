@@ -8,7 +8,7 @@
 - Added score coverage display to the browser UI.
 - Added unit tests, pytest configuration, CI workflow and a project-focused README.
 - Renamed the project branding, API metadata, UI labels and default database to MarketCortex.
-- Published MarketCortex to `chungnguyenvp/Pj` from a clean root commit owned solely by `chungnguyenvp`.
+- Published MarketCortex to `chungnguyenvp/MarketCortex` from a clean root commit owned solely by `chungnguyenvp`.
 
 ## Verification
 
